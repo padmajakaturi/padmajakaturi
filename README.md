@@ -80,28 +80,15 @@ Here are some of my certificates:
 - **Machine Learning certificate of Internship**  
  
 
----
-
-### Explanation:
-
-- Each certification has a corresponding icon (uploaded locally in your GitHub repository).
-- The icon is displayed using Markdown image syntax (`![alt text](image-url)`).
-- The certificate name is clickable, and you can replace the `#` with the actual link to your certificate.
-
----
 
 ### **Badges** 🏅
 
 Here are some of the achievements/badges I've earned from platforms:
 
-- **[LeetCode Top 10%](https://leetcode.com/yourusername/)**  
-  ![LeetCode Badge](https://img.shields.io/badge/LeetCode_Top_10%25-000000?style=for-the-badge&logo=leetcode&logoColor=white)
-
-- **[HackerRank Expert](https://www.hackerrank.com/yourusername)**  
-  ![HackerRank Badge](https://img.shields.io/badge/HackerRank_Expert-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
-
-- **[GitHub Verified Contributor](https://github.com/yourusername)**  
-  ![GitHub Badge](https://img.shields.io/badge/GitHub_Verified_Contributor-181717?style=for-the-badge&logo=github&logoColor=white)
+-**ibm-watsonx-ai-technical-essentials**
+-**introduction-to-cybersecurity**
+-**NETWORKING BASICS**
+-**POSTMAN API**
 
 ---
 
