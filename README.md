@@ -67,9 +67,8 @@ Feel free to explore my repositories and check out my code. I am always open to 
 
 Here are some of my certificates:
 
-- **Core Java Certification**  
-  ![Core Java](images/core-java-icon.png)  
-  [Link to Certificate](#)  *(Replace with your certificate URL)*
+- **Core Java Certificate**-AH CAREER  
+  
 
 - **RedHat Certification**  
   ![RedHat](images/redhat-icon.png)  
