@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm padmaja, a passionate Student & JFS&UI/UX Trai
 ## 🚀 About Me
 
 I'm a  Java Full Stack Developer and UI/UX Trainee at TechWing. With Knowledge in  frontend ,backend and database technologies.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=padmajakaturi&show_icons=true&count_private=true&hide=prs&theme=radical)
 
 ## 🛠️ Skills & Technologies
 
