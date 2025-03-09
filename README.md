@@ -7,9 +7,11 @@ I'm a  Java Full Stack Developer and UI/UX Trainee at TechWing. With Knowledge i
 
 ## 🛠️ Skills & Technologies
 ## Frontend 🚀
-<div style="display: flex; flex-wrap: wrap;"> <div style="background-color: #E34F26; color: white; padding: 10px 20px; margin: 5px; border-radius: 8px;">HTML</div>
-  <div style="background-color: #1572B6; color: white; padding: 10px 20px; margin: 5px; border-radius: 8px;">CSS</div>
-  <div style="background-color: #F7DF1E; color: black; padding: 10px 20px; margin: 5px; border-radius: 8px;">JavaScript</div> </div>
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center;"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React" width="50" style="margin: 5px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Angular_full_color_logo.svg/640px-Angular_full_color_logo.svg.png" alt="Angular" width="50" style="margin: 5px;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/640px-Vue.js_Logo_2.svg.png" alt="Vue.js" width="50" style="margin: 5px;" /> </div>
+Languages: HTML, CSS, JavaScript
+Libraries/Frameworks: React, Angular, Vue.js
+Tools: Webpack, Babel, NPM, Sass, LESS
+Other: Responsive Design, Cross-Browser Compatibility, UI/UX Design
 
 
 - 🌱 I’m currently learning UI/UX as a trainee at TechWing
