@@ -85,10 +85,10 @@ Here are some of my certificates:
 
 Here are some of the achievements/badges I've earned from platforms:
 
--**ibm-watsonx-ai-technical-essentials**
--**introduction-to-cybersecurity**
--**NETWORKING BASICS**
--**POSTMAN API**
+- **ibm-watsonx-ai-technical-essentials**
+- **introduction-to-cybersecurity**
+- **NETWORKING BASICS**
+- **POSTMAN API**
 
 ---
 
