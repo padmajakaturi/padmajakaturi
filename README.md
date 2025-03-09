@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm padmaja, a passionate Student & JFS&UI/UX Trainee  who loves working with languages, technologies, or frameworks  like Java, Angular, React, etc.]. This is where I share my personal projects, contribute to open-source, and collaborate with other developers from all around the world.
 
-🚀 About Me
+## 🚀 About Me
 
 
 
