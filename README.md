@@ -94,3 +94,12 @@ Here are some of the achievements/badges I've earned from platforms:
 
 ---
 
+## 📬 Contact Me
+
+Feel free to reach out to me through any of the following platforms:
+
+- ✉️ **Email**: [padmajakaturi99@example.com](mailto:padmajakaturi99@example.com)  
+- 📸 **Instagram**: [@padmaja_katuri](https://www.instagram.com/padmaja_katuri/)  
+- 🌐 **LinkedIn**: [Padmaja Katuri](http://www.linkedin.com/in/padmaja-katuri-682362254)
+
+Looking forward to connecting!
