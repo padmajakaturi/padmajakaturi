@@ -66,8 +66,9 @@ Feel free to explore my repositories and check out my code. I am always open to 
 ### **Certificates** 📜
 
 Here are some of my certificates:
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; align-items: center;"> <img src="![core_java](https://github.com/user-attachments/assets/bf775d78-0612-44c3-8e72-06c7b7f94d94)" alt="Node.js" width="50" style="margin: 5px;" />
-
+[Java Programming Certificate](link-to-certificate)
+  ![Java Certificate](images/java-certificate-icon.png)
+![core_java](https://github.com/user-attachments/assets/bf775d78-0612-44c3-8e72-06c7b7f94d94)
 ![cyber security](https://github.com/user-attachments/assets/bb5d4c65-1c60-4e39-94d7-6b3316ed49a8)
 ![redhat](https://github.com/user-attachments/assets/0a665846-be11-49b9-9a01-c15b5b254dcd)
 ![python](https://github.com/user-attachments/assets/dd89a6ae-a3f0-4223-8178-fbe68d92aaea)
