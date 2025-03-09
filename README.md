@@ -1,9 +1,6 @@
 ## Hi there This is Padmaja Katuri👋
 
-<!--
-**padmajakaturi/padmajakaturi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm padmaja, a passionate Student & JFS&UI/UX Trainee  who loves working with languages, technologies, or frameworks  like Java, Angular, React, etc.]. This is where I share my personal projects, contribute to open-source, and collaborate with other developers from all around the world.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
