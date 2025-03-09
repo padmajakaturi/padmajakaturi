@@ -46,7 +46,6 @@ I'm a  Java Full Stack Developer and UI/UX Trainee at TechWing. With Knowledge i
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/padmajakaturi99)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=padmajakaturi&show_icons=true&count_private=true&hide=prs&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=padmajakaturi&show_icons=true&count_private=true&hide=prs&theme=radical)
 ---
 
 ## 📂 My Projects
