@@ -50,7 +50,7 @@ I'm a  Java Full Stack Developer and UI/UX Trainee at TechWing. With Knowledge i
 
 Here are a few of the repositories I’ve worked on:
 
-- ** 📚[Story world](https://github.com/padmajakaturi/story_world)**: StoryWorld bookstore web page using HTML and CSS.
+-  📚[Story world](https://github.com/padmajakaturi/story_world): StoryWorld bookstore web page using HTML and CSS.
 - ** 🍔[Country Food](https://github.com/padmajakaturi/country_food)**: CountryFood online food order webpage using ANGULAR and BOOTSTRAP   
 - ** 🤝[Helping hands](https://github.com/padmajakaturi/Helping-hands)**:  Donation website named “Helping Hands” using HTML,CSS and Bootstrap
 - ** 📚[Library](https://github.com/padmajakaturi/library-management-system)**: Simple Library Management  System Using JSP,JDBC and MYSQL 
