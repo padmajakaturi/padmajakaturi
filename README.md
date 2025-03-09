@@ -66,14 +66,34 @@ Feel free to explore my repositories and check out my code. I am always open to 
 ### **Certificates** 📜
 
 Here are some of my certificates:
-[Java Programming Certificate](link-to-certificate)
-  ![Java Certificate](images/java-certificate-icon.png)
-![core_java](https://github.com/user-attachments/assets/bf775d78-0612-44c3-8e72-06c7b7f94d94)
-![cyber security](https://github.com/user-attachments/assets/bb5d4c65-1c60-4e39-94d7-6b3316ed49a8)
-![redhat](https://github.com/user-attachments/assets/0a665846-be11-49b9-9a01-c15b5b254dcd)
-![python](https://github.com/user-attachments/assets/dd89a6ae-a3f0-4223-8178-fbe68d92aaea)
-![aimers](https://github.com/user-attachments/assets/71065cc0-f316-466e-b9a3-941c887734d3)
-![ibm-python](https://github.com/user-attachments/assets/48b22d7d-e7a8-4d1c-a2df-180129aaff5c)
+
+- **Core Java Certification**  
+  ![Core Java](images/core-java-icon.png)  
+  [Link to Certificate](#)  *(Replace with your certificate URL)*
+
+- **RedHat Certification**  
+  ![RedHat](images/redhat-icon.png)  
+  [Link to Certificate](#)  *(Replace with your certificate URL)*
+
+- **Cyber Security Certification**  
+  ![Cyber Security](images/cyber-security-icon.png)  
+  [Link to Certificate](#)  *(Replace with your certificate URL)*
+
+- **Python Programming Certification**  
+  ![Python](images/python-icon.png)  
+  [Link to Certificate](#)  *(Replace with your certificate URL)*
+
+- **Machine Learning Certification**  
+  ![Machine Learning](images/machine-learning-icon.png)  
+  [Link to Certificate](#)  *(Replace with your certificate URL)*
+
+---
+
+### Explanation:
+
+- Each certification has a corresponding icon (uploaded locally in your GitHub repository).
+- The icon is displayed using Markdown image syntax (`![alt text](image-url)`).
+- The certificate name is clickable, and you can replace the `#` with the actual link to your certificate.
 
 ---
 
