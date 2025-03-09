@@ -50,11 +50,11 @@ I'm a  Java Full Stack Developer and UI/UX Trainee at TechWing. With Knowledge i
 
 Here are a few of the repositories I’ve worked on:
 
-- **[Story world](https://github.com/padmajakaturi/story_world)**: StoryWorld bookstore web page using HTML and CSS.
-- **[Country Food](https://github.com/padmajakaturi/country_food)**: CountryFood online food order webpage using ANGULAR and BOOTSTRAP   
-- **[Helping hands](https://github.com/padmajakaturi/Helping-hands)**:  Donation website named “Helping Hands” using HTML,CSS and Bootstrap
-- **[Library](https://github.com/padmajakaturi/library-management-system)**: Simple Library Management  System Using JSP,JDBC and MYSQL 
-- **[Contacts](https://github.com/padmajakaturi/contacts)**: simple Contacts Management System Which contains CRUD operations using SPRING MVC &MYSQL
+- ** 📚[Story world](https://github.com/padmajakaturi/story_world)**: StoryWorld bookstore web page using HTML and CSS.
+- ** 🍔[Country Food](https://github.com/padmajakaturi/country_food)**: CountryFood online food order webpage using ANGULAR and BOOTSTRAP   
+- ** 🤝[Helping hands](https://github.com/padmajakaturi/Helping-hands)**:  Donation website named “Helping Hands” using HTML,CSS and Bootstrap
+- ** 📚[Library](https://github.com/padmajakaturi/library-management-system)**: Simple Library Management  System Using JSP,JDBC and MYSQL 
+- ** 📞[Contacts](https://github.com/padmajakaturi/contacts)**: simple Contacts Management System Which contains CRUD operations using SPRING MVC &MYSQL
 
 Feel free to explore my repositories and check out my code. I am always open to feedback and improvements!
 
