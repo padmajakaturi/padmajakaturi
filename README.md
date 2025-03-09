@@ -61,9 +61,38 @@ Feel free to explore my repositories and check out my code. I am always open to 
 
 ---
 
+## 🎓 Certifications & Badges
 
-- 🌱 I’m currently learning UI/UX as a trainee at TechWing
-- 👯 I’m looking to collaborate on open-source contributions, web development projects.
-- 📫 How to reach me: 
+### **Certificates** 📜
 
+Here are some of my certificates:
+
+- **[Java Programming Certificate](link-to-certificate)**  
+  ![Java Certificate](https://img.shields.io/badge/Java_Certificate-FFD700?style=for-the-badge&logo=java&logoColor=white)
+
+- **[React JS Certificate](link-to-certificate)**  
+  ![React Certificate](https://img.shields.io/badge/React_Certificate-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+- **[Node.js Certification](link-to-certificate)**  
+  ![Node.js Certificate](https://img.shields.io/badge/Node_Certificate-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+- **[Postman API Testing](link-to-certificate)**  
+  ![Postman Certificate](https://img.shields.io/badge/Postman_Certificate-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### **Badges** 🏅
+
+Here are some of the achievements/badges I've earned from platforms:
+
+- **[LeetCode Top 10%](https://leetcode.com/yourusername/)**  
+  ![LeetCode Badge](https://img.shields.io/badge/LeetCode_Top_10%25-000000?style=for-the-badge&logo=leetcode&logoColor=white)
+
+- **[HackerRank Expert](https://www.hackerrank.com/yourusername)**  
+  ![HackerRank Badge](https://img.shields.io/badge/HackerRank_Expert-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+
+- **[GitHub Verified Contributor](https://github.com/yourusername)**  
+  ![GitHub Badge](https://img.shields.io/badge/GitHub_Verified_Contributor-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
 
