@@ -67,17 +67,12 @@ Feel free to explore my repositories and check out my code. I am always open to 
 
 Here are some of my certificates:
 
-- **[Java Programming Certificate](link-to-certificate)**  
-  ![Java Certificate](https://img.shields.io/badge/Java_Certificate-FFD700?style=for-the-badge&logo=java&logoColor=white)
-
-- **[React JS Certificate](link-to-certificate)**  
-  ![React Certificate](https://img.shields.io/badge/React_Certificate-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-- **[Node.js Certification](link-to-certificate)**  
-  ![Node.js Certificate](https://img.shields.io/badge/Node_Certificate-339933?style=for-the-badge&logo=node.js&logoColor=white)
-
-- **[Postman API Testing](link-to-certificate)**  
-  ![Postman Certificate](https://img.shields.io/badge/Postman_Certificate-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![core_java](https://github.com/user-attachments/assets/bf775d78-0612-44c3-8e72-06c7b7f94d94)
+![cyber security](https://github.com/user-attachments/assets/bb5d4c65-1c60-4e39-94d7-6b3316ed49a8)
+![redhat](https://github.com/user-attachments/assets/0a665846-be11-49b9-9a01-c15b5b254dcd)
+![python](https://github.com/user-attachments/assets/dd89a6ae-a3f0-4223-8178-fbe68d92aaea)
+![aimers](https://github.com/user-attachments/assets/71065cc0-f316-466e-b9a3-941c887734d3)
+![ibm-python](https://github.com/user-attachments/assets/48b22d7d-e7a8-4d1c-a2df-180129aaff5c)
 
 ---
 
