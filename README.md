@@ -13,7 +13,6 @@ Libraries/Frameworks: React, Angular, Vue.js
 Tools: Webpack, Babel, NPM, Sass, LESS
 Other: Responsive Design, Cross-Browser Compatibility, UI/UX Design
 
-
 - 🌱 I’m currently learning UI/UX as a trainee at TechWing
 - 👯 I’m looking to collaborate on open-source contributions, web development projects.
 - 📫 How to reach me: 
