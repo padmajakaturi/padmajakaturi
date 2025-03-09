@@ -36,6 +36,16 @@ I'm a  Java Full Stack Developer and UI/UX Trainee at TechWing. With Knowledge i
 
 ---
 
+### **Professional links** 🌐
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/padmajakaturi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/padmaja-katuri-682362254)
+[![Naukri](https://img.shields.io/badge/Naukri-3b99b2?style=for-the-badge&logo=naukri&logoColor=white)](https://www.naukri.com/mynaukri/mn_new_home)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/padmaja_katuri/)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/padmajakaturi99)
+
+---
+
 - 🌱 I’m currently learning UI/UX as a trainee at TechWing
 - 👯 I’m looking to collaborate on open-source contributions, web development projects.
 - 📫 How to reach me: 
