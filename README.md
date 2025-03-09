@@ -55,7 +55,7 @@ Here are a few of the repositories I’ve worked on:
 -  🤝[Helping hands](https://github.com/padmajakaturi/Helping-hands):  Donation website named “Helping Hands” using HTML,CSS and Bootstrap
 -  📚[Library](https://github.com/padmajakaturi/library-management-system): Simple Library Management  System Using JSP,JDBC and MYSQL 
 -  📞[Contacts](https://github.com/padmajakaturi/contacts): simple Contacts Management System Which contains CRUD operations using SPRING MVC &MYSQL
--  🎥[Movie Hub](https://github.com/padmajakaturi/moviehub): Team Project - A movie website for showcasing new and famous movies list developed using HTML, CSS
+-  🎥[Movie Hub](https://github.com/RaghuRamaRaju7/teamproject.git): Team Project - A movie website for showcasing new and famous movies list developed using HTML,CSS
 
 Feel free to explore my repositories and check out my code. I am always open to feedback and improvements!
 
