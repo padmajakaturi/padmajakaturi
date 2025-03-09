@@ -68,23 +68,17 @@ Feel free to explore my repositories and check out my code. I am always open to 
 Here are some of my certificates:
 
 - **Core Java Certificate**-AH CAREER  
+ 
+- **Certificate of Attendance in RedHat**  
+ 
+- **Certificate of course completion in Cyber Security by Cisco**  
   
 
-- **RedHat Certification**  
-  ![RedHat](images/redhat-icon.png)  
-  [Link to Certificate](#)  *(Replace with your certificate URL)*
+- **Python 101 for datas cience**  
+  
 
-- **Cyber Security Certification**  
-  ![Cyber Security](images/cyber-security-icon.png)  
-  [Link to Certificate](#)  *(Replace with your certificate URL)*
-
-- **Python Programming Certification**  
-  ![Python](images/python-icon.png)  
-  [Link to Certificate](#)  *(Replace with your certificate URL)*
-
-- **Machine Learning Certification**  
-  ![Machine Learning](images/machine-learning-icon.png)  
-  [Link to Certificate](#)  *(Replace with your certificate URL)*
+- **Machine Learning certificate of Internship**  
+ 
 
 ---
 
