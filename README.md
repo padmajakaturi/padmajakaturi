@@ -7,7 +7,8 @@ I'm a  Java Full Stack Developer and UI/UX Trainee at TechWing. With Knowledge i
 
 ## 🛠️ Skills & Technologies
 ## Frontend 🚀
-HTML
+![image](https://github.com/user-attachments/assets/f4d94072-0ef3-494c-93ea-a7e12eae0e9f)
+
 
 - 🌱 I’m currently learning UI/UX as a trainee at TechWing
 - 👯 I’m looking to collaborate on open-source contributions, web development projects.
